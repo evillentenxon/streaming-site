@@ -1,0 +1,5 @@
+This project is using ffmpeg technology to stream data using youtube rtmp server.
+To avoid complicate setup of ffmpeg, i have used docker container.
+In order to run, one has to have docker installed in their system. 
+
+***THANK YOU***
